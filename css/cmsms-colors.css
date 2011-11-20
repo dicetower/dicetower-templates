@@ -1,0 +1,36 @@
+/* Start of CMSMS style sheet 'Colours' */
+/* Layout sections */
+    body {
+        background: #ccc;
+        color: #333;
+        }
+
+    div#pagewrapper {
+        border: 1px solid #000;
+        background: #fff;
+        }
+
+    div#header {
+        color: #fff;
+        }
+
+    div#footer {
+        color: #fff;
+        background-color: #385C72;
+
+
+        }
+
+/* Links */
+    a,
+    a:link
+    a:active, a:visited {
+        color: #385C72;
+    }
+
+/* Headings */
+    h1, h2, h3, h4, h5, h6 {
+        color: #000;
+    }
+/* End of 'Colours' */
+

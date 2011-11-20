@@ -1,0 +1,13 @@
+/* Start of CMSMS style sheet 'game_block' */
+.game_block .quick-links a:link,
+.game_block .quick-links a:visited {
+color: #000;
+text-decoration: none;
+}
+
+.game_block .quick-links a:hover,
+.game_block .quick-links a:active {
+text-decoration: underline;
+}
+/* End of 'game_block' */
+

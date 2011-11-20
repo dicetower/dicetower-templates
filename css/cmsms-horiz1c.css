@@ -1,0 +1,22 @@
+/* Start of CMSMS style sheet 'Layout CSSMenu Horiz 1C' */
+/* A CSS Framework by Mike Stenhouse of Content with Style, adapted to CMSMS by Daniel Westergren */
+
+
+/* NAV BAR AT THE TOP AND ONE COLUMN OF CONTENT */
+    div#content {
+        width: 96%;
+        margin: 0;
+        padding: 1em 2%;
+        text-align: left;
+    }
+    div#main {
+
+    }
+    div#menu_horiz {
+        width: 100%;
+        text-align: left;
+    }
+
+/* END CONTENT */
+/* End of 'Layout CSSMenu Horiz 1C' */
+

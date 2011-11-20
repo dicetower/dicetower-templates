@@ -1,0 +1,111 @@
+/* Start of CMSMS style sheet 'Layout' */
+/* A CSS Framework by Mike Stenhouse of Content with Style, adapted to CMSMS by Daniel Westergren */
+
+/* SITE SPECIFIC LAYOUT */
+    body {
+        background:  url(uploads/images/dice2.gif) ;
+        margin: 0;
+        padding: 1em;
+        text-align: center;
+    }
+    div#pagewrapper {
+
+        margin: 0 auto;
+        width: 968px;
+        min-width: 60em;
+        padding: 0;
+        text-align: left;
+    }
+    #container {
+    position: relative;
+    margin: 2;
+    }
+
+    /* HEADER */
+        div#header {
+            margin: 1;
+            padding: 4;
+            height: 207px;
+            background: #ffffff;
+            text-align: center;
+        }
+        div#header h1 a {
+            background:  url(/images/DiceTowerHeader02.png) no-repeat 0 0px;
+            background-position: 4px 2px;
+            display: block;
+            height: 199px;
+            text-indent: -700em;
+            width: 968px;
+            margin: 0;
+            padding: 0;
+            text-decoration:none;
+        }
+    /* END HEADER */
+
+
+    /* CONTENT */
+        div#content {
+
+        }
+
+        /* MAIN */
+            div#main {
+
+
+
+            }
+        /* END MAIN */
+
+        /* SUB */
+            div#sub {
+
+            }
+        /* END SUB */
+
+    /* END CONTENT */
+
+
+    /* FOOTER */
+        div#footer {
+
+        }
+
+        div#footer p {
+            font-size: 0.8em;
+            margin: 0;
+            padding: 15px;
+            text-align: center;
+        }
+    /* END FOOTER */
+/* END LAYOUT */
+
+
+
+div.breadcrumbs {
+   padding: 1em 0;
+   text-align: left;
+   font-size: 90%;
+   margin: 0 1em;
+   border-bottom: 1px dotted #000;
+}
+
+div.flags {
+  float: right;
+  width: 18px;
+  padding: 1em 0;
+  text-align: right;
+  margin: 0 1em 0 0;
+}
+
+div.left49 {
+  float: left;
+  width: 49%;
+  }
+
+div.right49 {
+  float: right;
+  width: 49%;
+  text-align: right;
+  }
+/* End of 'Layout' */
+
